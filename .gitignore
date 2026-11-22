@@ -1,0 +1,6 @@
+/.env
+/.env.*
+!/.env.example
+/storage/logs/*
+/public/uploads/events/*
+!/public/uploads/events/.gitkeep
